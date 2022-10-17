@@ -1,0 +1,119 @@
+{
+    "language": "English",
+    "@language":{
+      "description": "The current Language"
+    },
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "A programmer greeting"
+    },
+    "hello": "Hello {username}",
+    "@hello": {
+      "description": "A welcome message",
+      "placeholders": {
+         "username": {
+           "type": "String"
+         }
+      }
+    },
+
+
+    "market": "Market",
+        "@market": {
+          "description": "A welcome message"
+        },
+    "type": "Type",
+            "@type": {
+              "description": "A welcome message"
+            },
+    "home": "Home",
+            "@home": {
+              "description": "A welcome message"
+            },
+    "cars": "My Cars",
+            "@cars": {
+              "description": "A welcome message"
+            },
+    "car": "Car Name",
+            "@car": {
+              "description": "A welcome message"
+            },
+    "company": "Company Name",
+            "@company": {
+              "description": "A welcome message"
+            },
+    "price": "Price",
+            "@price": {
+              "description": "A welcome message"
+            },
+    "primary": " Primary Images ",
+            "@primary": {
+              "description": "A welcome message"
+            },
+    "other": " Other Images",
+            "@other": {
+              "description": "A welcome message"
+            },
+    "submit": "Submit",
+            "@submit": {
+              "description": "A welcome message"
+            },
+    "add": "Add",
+            "@add": {
+              "description": "A welcome message"
+            },
+    "newest": "The Newest",
+            "@newest": {
+              "description": "A welcome message"
+            },
+    "buying": " Cars For Buying",
+            "@buying": {
+              "description": "A welcome message"
+            },
+    "sell": "Add Car For Sell",
+            "@sell": {
+              "description": "A welcome message"
+            },
+    "description": "Description",
+            "@description": {
+              "description": "A welcome message"
+            },
+
+                   "profile": "Profile ",
+                               "@profile": {
+                                 "description": "A welcome message"
+                               },
+                    "admin": " Admin",
+                                "@admin": {
+                                  "description": "A welcome message"
+                                },
+                    "setting": "Setting",
+                                "@setting": {
+                                  "description": "A welcome message"
+                                },
+                    "out": "Log Out",
+                                "@out": {
+                                  "description": "A welcome message"
+                                },
+  "email": " Email",
+ "@email": {"description": "A welcome message"},
+    "model": "Model",
+  "@model": {"description": "A welcome message"},
+"view": " View Car",
+     "@view": {"description": "A welcome message"},
+ "password": "password",
+  "@password": {"description": "A welcome message"},
+"signin": "Sign In",
+ "@signin": {"description": "A welcome message"},
+  "signup": "Sign Up",
+ "@signup": {"description": "A welcome message"},
+"username": "  username",
+   "@username": {"description": "A welcome message"},
+ "click": " Click Here",
+ "@click": {"description": "A welcome message"},
+"haven": "If You Haven't Accout",
+  "@haven": {"description": "A welcome message"},
+"have": " if You Have Account",
+ "@have": {"description": "A welcome message"}
+
+}

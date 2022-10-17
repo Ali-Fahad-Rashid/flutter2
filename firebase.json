@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "public": "build/web",
+    "site": "market-a55f1",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
+

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "226811979985",
+    "project_id": "market-a55f1",
+    "storage_bucket": "market-a55f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226811979985:android:e924c20c372cea38a7fdf0",
+        "android_client_info": {
+          "package_name": "com.ali.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226811979985-t4779pivfil59b692ok7ci2scn240htv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ali.market",
+            "certificate_hash": "45bb03c2fff7b2dbc5f087547028f3535eeb7f06"
+          }
+        },
+        {
+          "client_id": "226811979985-uq80evpio767ns0uv20gcieau9ge3mvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoCWLdZP3Ft9XcQs9ib8MNmBj4hZbQW_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226811979985-uq80evpio767ns0uv20gcieau9ge3mvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
